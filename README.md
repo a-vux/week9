@@ -33,7 +33,6 @@ VD: login form, searching field, ...
         * Cách khai thác: 
             * Có thể lấy được số cột kết quả trả về của query bằng cách UNION SELECT NULL (nhưng có cách đơn giản hơn là dùng ORDER BY)
             * Có thể lấy được data type của cột bằng cách thử dữ liệu khi UNION SELECT 
-        <p>Ví dụ:</p>
 <br><br>
 2. Inferential SQLi (Blind SQLi)
 * Là kiểu tấn công được sử dụng khi mục tiêu (ứng dụng/website) đã ẩn đi chức năng hiện thông báo lỗi nhưng vẫn không chịu vá lỗ hổng đấy
